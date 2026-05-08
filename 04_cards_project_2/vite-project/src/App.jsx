@@ -6,7 +6,7 @@ const App = () => {
   const teamMembers = [
   {
     id: 1,
-    name: "Jay",
+    name: "Priya",
     role: "Drupal Developer",
     image:
       "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&auto=format&fit=crop&q=60",
@@ -26,7 +26,7 @@ const App = () => {
   },
   {
     id: 3,
-    name: "Saurabh",
+    name: "Kiran",
     role: "Marketing",
     image:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=600&auto=format&fit=crop&q=60",
@@ -46,7 +46,7 @@ const App = () => {
   },
   {
     id: 5,
-    name: "Kishan",
+    name: "Riya",
     role: "Photographer",
     image:
       "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=600&auto=format&fit=crop&q=60",
